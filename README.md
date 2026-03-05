@@ -1,6 +1,5 @@
-# Stress Level Classification using Machine Learning
-
-AI project developed for the COE 292 course.
+## Team Project
+This project was completed as part of a team for the COE 292 course.
 
 Models used:
 - K-Nearest Neighbors (KNN)
